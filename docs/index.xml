@@ -64,10 +64,16 @@
 &lt;h2 id=&#34;全発表文献リストfull-publication-lists&#34;&gt;全発表文献リスト：Full Publication Lists&lt;/h2&gt;
 &lt;h3 id=&#34;国際会議論文査読ありreviewed-conference-proceedings&#34;&gt;国際会議論文（査読あり）：Reviewed Conference Proceedings&lt;/h3&gt;
 &lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Efficient Two-Online-Round Secure Comparison in the Plain Model&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;Koji Nuida, Satsuya Ohata.&lt;/li&gt;
+&lt;li&gt;The 19th International Conference on Security for Information Technology and Communications (SecITC 2026), LNCS ?????, pp.???-???, 2026.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Hardware Lazy PAT: Making Memory Encryption with Integrity Verification Unobtrusive&lt;/strong&gt;
 &lt;ul&gt;
-&lt;li&gt;Jun Furukawa, Masahiro Goshima, Satsuya Ohata, Shinya Takamaeda-Yamazaki and Wakuto Matsumi&lt;/li&gt;
-&lt;li&gt;31st European Symposium on Research in Computer Security (ESORICS 2026) 2026, pp.???-???, 2026.&lt;/li&gt;
+&lt;li&gt;Jun Furukawa, Masahiro Goshima, Satsuya Ohata, Shinya Takamaeda-Yamazaki and Wakuto Matsumi.&lt;/li&gt;
+&lt;li&gt;31st European Symposium on Research in Computer Security (ESORICS 2026), LNCS ?????, pp.???-???, 2026.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Efficient Privacy-Preserving Variable-Length Substring Match for Genome Sequence&lt;/strong&gt;
